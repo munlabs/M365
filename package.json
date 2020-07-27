@@ -1,5 +1,5 @@
 {
-  "name": "@m365",
+  "name": "@ml365/core",
   "version": "1.0.0",
   "description": "Office365",
   "main": "index.js",
